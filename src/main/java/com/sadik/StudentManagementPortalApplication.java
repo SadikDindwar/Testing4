@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StudentManagementPortalApplication {
 
 	public static void main(String[] args) {
+		int i =100;
 		SpringApplication.run(StudentManagementPortalApplication.class, args);
 	}
 
